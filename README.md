@@ -23,10 +23,11 @@ Please feel free to ask questions on my GitHub [ChonaC][github-chona].
 
 * [Github Repository][github-repo]
 
-* [Video Walkthrough](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/3b18ea20-b85c-4d0a-yc44-e8a832214a17)
+* [Video Walkthrough][video-walkthrough]
 
 
 
 
 [github-chona]: https://github.com/ChonaC
 [github-repo]: https://github.com/ChonaC/Ecommerce-backend
+[video-walkthrough]: https://drive.google.com/file/d/1ZRY4owygd9iRPqT7En8O7JK-eepdZh8_/view
